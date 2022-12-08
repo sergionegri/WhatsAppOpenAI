@@ -5,7 +5,7 @@ import json
 # TODO load API key from an environment variable or secret management service
 #openai.api_key = os.getenv("OPENAI_API_KEY")
 
-openai.api_key = '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'
+openai.api_key = 'XXXXX'
 
 input='List 10 movies that are similar to interstellar, memento and tenet'
 
